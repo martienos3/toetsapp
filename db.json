@@ -57,8 +57,8 @@
       "vraag": "hoe ziet vraag 3 eruit",
       "antwoorden": [
         [
-          "zo(goed)",
-          true
+          "zo",
+          false
         ],
         [
           "niet zo",
@@ -69,8 +69,8 @@
           false
         ],
         [
-          "geen idee",
-          false
+          "geen idee(goed)",
+          true
         ]
       ]
     }
