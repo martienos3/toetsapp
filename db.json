@@ -18,16 +18,6 @@
             ["geen idee",false]
         ]
      }
-          {
-        "vraag":"hoe ziet vraag 2 eruit",
-        "antwoorden":[
-            ["zo",false],
-            ["niet zo(goed)",true],
-            ["weet je zelf toch wel?",false],
-            ["geen idee",false]
-        ]
-     }
-
          ]
    
 
