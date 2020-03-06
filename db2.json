@@ -1,4 +1,4 @@
-{
+[{
         "id":0,
         "vraag":"hoe ziet vraag 1 eruit",
         "antwoorden":[
@@ -7,5 +7,48 @@
             ["weet je zelf toch wel?(goed)",true],
             ["geen idee",false]
         ]
+    }"id":1,
+"toets":[     {
+        "id":0,
+        "vraag":"hoe ziet vraag 1 eruit",
+        "antwoorden":[
+            ["zo",false],
+            ["niet zo",false],
+            ["weet je zelf toch wel?(goed)",true],
+            ["geen idee",false]
+        ]
+    },
+    {
+        "id":1,
+        "vraag":"hoe ziet vraag 2 eruit",
+        "antwoorden":[
+            ["zo(goed)",true],
+            ["niet zo",false],
+            ["weet je zelf toch wel?",false],
+            ["geen idee",false]
+        ]
+    },
+    {
+        "id":2,
+        "vraag":"hoe ziet vraag 3 eruit",
+        "antwoorden":[
+            ["zo",false],
+            ["niet zo",false],
+            ["weet je zelf toch wel?",false],
+            ["geen idee(goed)",true]
+        ]
+    },
+    {
+        "id":3,
+        "vraag":"hoe ziet vraag 4 eruit",
+        "antwoorden":[
+            ["zo",false],
+            ["niet zo(goed)",true],
+            ["weet je zelf toch wel?",false],
+            ["geen idee",false]
+        ]
     }
+
+         ]
    
+]
