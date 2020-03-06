@@ -78,10 +78,22 @@
         "id":3,
         "vraag":"hoe ziet vraag 4 eruit",
         "antwoorden":[
-            ["zo",false],
-            ["niet zo(goed)",true],
-            ["weet je zelf toch wel?",false],
-            ["geen idee",false]
+            [
+              "zo",
+              false
+            ],
+            [
+              "niet zo(goed)
+              ",true
+            ],
+            [
+              "weet je zelf toch wel?",
+              false
+            ],
+            [
+              "geen idee",
+              false
+            ]
         ]
     }
   ]
