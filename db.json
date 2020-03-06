@@ -1,4 +1,5 @@
 [     {
+        "id":0,
         "vraag":"hoe ziet vraag 1 eruit",
         "antwoorden":[
             ["zo",false],
@@ -8,6 +9,7 @@
         ]
     },
     {
+        "id":1,
         "vraag":"hoe ziet vraag 2 eruit",
         "antwoorden":[
             ["zo(goed)",true],
@@ -17,6 +19,7 @@
         ]
     },
     {
+        "id":2,
         "vraag":"hoe ziet vraag 3 eruit",
         "antwoorden":[
             ["zo",false],
@@ -26,6 +29,7 @@
         ]
     },
     {
+        "id":3,
         "vraag":"hoe ziet vraag 4 eruit",
         "antwoorden":[
             ["zo",false],
