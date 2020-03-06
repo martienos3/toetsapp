@@ -11,6 +11,12 @@
    "data" : [
      {
         "vraag":"hoe ziet vraag 1 eruit"
+        "antwoorden":[
+            ["zo",false],
+            ["niet zo",false],
+            ["weet je zelf toch wel?(goed)",true],
+            ["geen idee",false]
+        ]
      }
 
          ]
