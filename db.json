@@ -1,4 +1,4 @@
-     {
+{     {
         "vraag":"hoe ziet vraag 1 eruit",
         "antwoorden":[
             ["zo",false],
@@ -34,3 +34,4 @@
             ["geen idee",false]
         ]
     }
+}
