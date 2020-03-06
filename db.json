@@ -51,6 +51,28 @@
           false
         ]
       ]
+    },
+    {
+      "id": 2,
+      "vraag": "hoe ziet vraag 3 eruit",
+      "antwoorden": [
+        [
+          "zo(goed)",
+          true
+        ],
+        [
+          "niet zo",
+          false
+        ],
+        [
+          "weet je zelf toch wel?",
+          false
+        ],
+        [
+          "geen idee",
+          false
+        ]
+      ]
     }
     
   ]
