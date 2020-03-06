@@ -7,8 +7,7 @@
             ["weet je zelf toch wel?(goed)",true],
             ["geen idee",false]
         ]
-    }"id":1,
-"toets":[     {
+    
         "id":0,
         "vraag":"hoe ziet vraag 1 eruit",
         "antwoorden":[
