@@ -90,8 +90,9 @@
     }
     
   ]
- "reken1toets": [{
-        "id":0,
+ 
+ "rekentoets 1" : [{
+         "id":0,
         "vraag":"4*2+6",
         "antwoorden":[
             ["12",false],
@@ -112,12 +113,12 @@
     },
     {
         "id":2,
-        "vraag":"∞+10=",
+        "vraag":"5+10=",
         "antwoorden":[
-            ["∞",true],
-            ["10∞",false],
-            ["geen antwoord mogelijk,false],
-            ["∞10",false]
+            ["5",false],
+            ["10",false],
+            ["geen antwoord mogelijk",false],
+            ["15",true]
         ]
     },
     {
@@ -130,8 +131,5 @@
             ["12",false]
         ]
     }
-
-         ]
-   
+]
 }
-
