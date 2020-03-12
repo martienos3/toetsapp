@@ -90,7 +90,7 @@
     }
     
   ]
- "rekentoets1": [{
+ "reken1toets": [{
         "id":0,
         "vraag":"4*2+6",
         "antwoorden":[
@@ -117,7 +117,7 @@
             ["∞",true],
             ["10∞",false],
             ["geen antwoord mogelijk,false],
-            ["∞^10",false]
+            ["∞10",false]
         ]
     },
     {
